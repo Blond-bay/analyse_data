@@ -1,393 +1,394 @@
 date [HJD],V [mag],V-B [mag],source,note
-2443875.9785,8.067,,Barrell,
-2443875.9839,8.061,,Barrell,
-2443876.011,8.077,,Barrell,
-2443876.0229,8.081,,Barrell,
-2443876.9783,8.412,,Barrell,
-2443876.9902,8.399,,Barrell,
-2443877.9772,8.181,,Barrell,
-2443877.9867,8.181,,Barrell,
-2443877.9941,8.171,,Barrell,
-2443878.0006,8.156,,Barrell,
-2443878.0069,8.148,,Barrell,
-2443878.0125,8.145,,Barrell,
-2443878.0227,8.136,,Barrell,
-2443878.0374,8.147,,Barrell,
-2443878.0462,8.149,,Barrell,
-2443878.0532,8.14,,Barrell,
-2443878.0591,8.131,,Barrell,
-2443878.0661,8.12,,Barrell,
-2443878.0717,8.125,,Barrell,
-2443878.0776,8.121,,Barrell,
-2443878.0832,8.108,,Barrell,
-2443878.0895,8.105,,Barrell,
-2443878.0947,8.1,,Barrell,
-2443878.1008,8.095,,Barrell,
-2443878.1072,8.097,,Barrell,
-2443878.1133,8.084,,Barrell,
-2443878.1424,8.059,,Barrell,
-2443878.1482,8.068,,Barrell,
-2443878.154,8.059,,Barrell,
-2443878.2174,8.024,,Barrell,
-2443878.2228,8.037,,Barrell,
-2443878.9662,8.119,,Barrell,
-2443878.9738,8.114,,Barrell,
-2443878.9808,8.119,,Barrell,
-2443878.9863,8.125,,Barrell,
-2443878.9963,8.114,,Barrell,
-2443879.0026,8.123,,Barrell,
-2443879.009,8.116,,Barrell,
-2443879.0145,8.133,,Barrell,
-2443879.0204,8.133,,Barrell,
-2443879.0261,8.133,,Barrell,
-2443879.0393,8.133,,Barrell,
-2443879.0455,8.133,,Barrell,
-2443879.0509,8.131,,Barrell,
-2443879.0561,8.142,,Barrell,
-2443879.0613,8.144,,Barrell,
-2443879.0662,8.148,,Barrell,
-2443879.0715,8.143,,Barrell,
-2443879.0764,8.134,,Barrell,
-2443879.0814,8.149,,Barrell,
-2443879.0865,8.139,,Barrell,
-2443879.0922,8.153,,Barrell,
-2443879.0977,8.146,,Barrell,
-2443879.1031,8.165,,Barrell,
-2443879.1084,8.153,,Barrell,
-2443879.114,8.163,,Barrell,
-2443879.1221,8.156,,Barrell,
-2443879.1281,8.164,,Barrell,
-2443879.1337,8.173,,Barrell,
-2443879.2002,8.185,,Barrell,
-2443879.2068,8.181,,Barrell,
-2443879.2125,8.18,,Barrell,
-2443879.218,8.183,,Barrell,
-2443879.2239,8.201,,Barrell,
-2443879.9669,8.329,,Barrell,
-2443879.9743,8.328,,Barrell,
-2443879.9817,8.342,,Barrell,
-2443879.9873,8.355,,Barrell,
-2443879.9925,8.337,,Barrell,
-2443879.9981,8.341,,Barrell,
-2443880.0032,8.342,,Barrell,
-2443880.0081,8.326,,Barrell,
-2443880.0137,8.343,,Barrell,
-2443880.019,8.352,,Barrell,
-2443880.0241,8.356,,Barrell,
-2443880.0294,8.347,,Barrell,
-2443880.0338,8.341,,Barrell,
-2443880.0425,8.332,,Barrell,
-2443880.0481,8.337,,Barrell,
-2443880.0527,8.345,,Barrell,
-2443880.0588,8.342,,Barrell,
-2443880.0635,8.34,,Barrell,
-2443880.0684,8.335,,Barrell,
-2443880.073,8.333,,Barrell,
-2443880.0779,8.341,,Barrell,
-2443880.0837,8.34,,Barrell,
-2443880.0888,8.326,,Barrell,
-2443880.1081,8.333,,Barrell,
-2443880.1163,8.334,,Barrell,
-2443881.0567,8.172,,Barrell,
-2443881.0615,8.2,,Barrell,
-2443881.0663,8.178,,Barrell,
-2443881.071,8.187,,Barrell,
-2443881.0755,8.181,,Barrell,
-2443881.0868,8.175,,Barrell,
-2443881.0922,8.183,,Barrell,
-2443881.0966,8.187,,Barrell,
-2443881.1017,8.165,,Barrell,
-2443881.1066,8.166,,Barrell,
-2443881.1113,8.171,,Barrell,
-2443881.1156,8.185,,Barrell,
-2443881.1207,8.182,,Barrell,
-2443881.1251,8.176,,Barrell,
-2443881.1291,8.18,,Barrell,
-2443881.1333,8.181,,Barrell,
-2443881.1376,8.178,,Barrell,
-2443881.142,8.177,,Barrell,
-2443881.1466,8.158,,Barrell,
-2443881.1539,8.172,,Barrell,
-2443906.0478,8.358,,Barrell,
-2443906.052,8.361,,Barrell,
-2443906.0589,8.353,,Barrell,
-2443906.0636,8.355,,Barrell,
-2443906.0687,8.353,,Barrell,
-2443906.0735,8.356,,Barrell,
-2443906.0787,8.366,,Barrell,
-2443906.083,8.362,,Barrell,
-2443906.088,8.355,,Barrell,
-2443906.094,8.36,,Barrell,
-2443882.0086,8.286,,Barrell,
-2443882.0138,8.281,,Barrell,
-2443882.0201,8.296,,Barrell,
-2443882.0254,8.289,,Barrell,
-2443882.0335,8.297,,Barrell,
-2443882.0395,8.285,,Barrell,
-2443882.046,8.302,,Barrell,
-2443882.0523,8.296,,Barrell,
-2443882.0585,8.296,,Barrell,
-2443882.0723,8.286,,Barrell,
-2443882.0774,8.296,,Barrell,
-2443882.0819,8.294,,Barrell,
-2443882.1009,8.289,,Barrell,
-2443882.1051,8.304,,Barrell,
-2443882.1091,8.301,,Barrell,
-2443882.1135,8.298,,Barrell,
-2443882.1178,8.293,,Barrell,
-2443882.1222,8.302,,Barrell,
-2443882.1269,8.287,,Barrell,
-2443882.1317,8.289,,Barrell,
-2443906.9934,8.161,,Barrell,
-2443907.0,8.163,,Barrell,
-2443907.0044,8.154,,Barrell,
-2443907.0091,8.15,,Barrell,
-2443907.0137,8.149,,Barrell,
-2443907.0182,8.15,,Barrell,
-2443907.0279,8.15,,Barrell,
-2443907.0335,8.161,,Barrell,
-2443907.0381,8.154,,Barrell,
-2443907.0426,8.152,,Barrell,
-2443905.2198,8.233,,Barrell,
-2443905.225,8.251,,Barrell,
-2443905.2295,8.224,,Barrell,
-2443905.2341,8.227,,Barrell,
-2443905.2387,8.244,,Barrell,
-2443905.2435,8.246,,Barrell,
-2443905.9574,8.357,,Barrell,
-2443905.9627,8.365,,Barrell,
-2443905.9783,8.372,,Barrell,
-2443905.983,8.369,,Barrell,
-2443905.9889,8.367,,Barrell,
-2443905.9957,8.353,,Barrell,
-2443906.0025,8.365,,Barrell,
-2443906.0068,8.376,,Barrell,
-2443906.0137,8.364,,Barrell,
-2443906.0181,8.367,,Barrell,
-2443906.0225,8.365,,Barrell,
-2443906.0266,8.364,,Barrell,
-2443906.0358,8.36,,Barrell,
-2443906.0399,8.356,,Barrell,
-2443912.0922,7.945,,Barrell,
-2443912.1019,7.943,,Barrell,
-2443912.1066,7.945,,Barrell,
-2443912.1116,7.952,,Barrell,
-2443912.1165,7.953,,Barrell,
-2443912.1216,7.952,,Barrell,
-2443912.1334,7.955,,Barrell,
-2443912.1385,7.964,,Barrell,
-2443912.1435,7.964,,Barrell,
-2443912.1484,7.969,,Barrell,
-2443878.1601,8.067,,Barrell,
-2443878.1666,8.064,,Barrell,
-2443878.1729,8.063,,Barrell,
-2443878.1795,8.065,,Barrell,
-2443878.1845,8.055,,Barrell,
-2443878.1899,8.055,,Barrell,
-2443878.1955,8.052,,Barrell,
-2443878.2013,8.048,,Barrell,
-2443878.2066,8.044,,Barrell,
-2443878.2121,8.032,,Barrell,
-2443880.1723,8.325,,Barrell,
-2443880.1778,8.33,,Barrell,
-2443880.1843,8.325,,Barrell,
-2443880.1908,8.313,,Barrell,
-2443880.1955,8.316,,Barrell,
-2443880.2007,8.319,,Barrell,
-2443880.2053,8.328,,Barrell,
-2443880.2105,8.326,,Barrell,
-2443880.216,8.324,,Barrell,
-2443880.2208,8.323,,Barrell,
-2443880.2255,8.307,,Barrell,
-2443880.9653,8.201,,Barrell,
-2443880.9707,8.184,,Barrell,
-2443880.9773,8.187,,Barrell,
-2443880.9834,8.187,,Barrell,
-2443880.9898,8.2,,Barrell,
-2443880.9946,8.199,,Barrell,
-2443881.0001,8.189,,Barrell,
-2443881.0073,8.194,,Barrell,
-2443881.0132,8.177,,Barrell,
-2443881.0182,8.177,,Barrell,
-2443881.0236,8.182,,Barrell,
-2443881.0288,8.178,,Barrell,
-2443881.0339,8.182,,Barrell,
-2443881.0522,8.183,,Barrell,
-2443879.1389,8.18,,Barrell,
-2443879.1444,8.178,,Barrell,
-2443879.1505,8.188,,Barrell,
-2443879.1563,8.18,,Barrell,
-2443879.1621,8.179,,Barrell,
-2443879.1713,8.19,,Barrell,
-2443879.1771,8.186,,Barrell,
-2443879.1831,8.171,,Barrell,
-2443879.189,8.186,,Barrell,
-2443879.1942,8.189,,Barrell,
-2443881.1584,8.172,,Barrell,
-2443881.1627,8.164,,Barrell,
-2443881.1674,8.182,,Barrell,
-2443881.1721,8.168,,Barrell,
-2443881.1768,8.16,,Barrell,
-2443881.1813,8.18,,Barrell,
-2443881.1869,8.177,,Barrell,
-2443881.192,8.184,,Barrell,
-2443881.1965,8.17,,Barrell,
-2443881.2008,8.171,,Barrell,
-2443881.2053,8.172,,Barrell,
-2443881.2093,8.177,,Barrell,
-2443881.2138,8.165,,Barrell,
-2443881.2184,8.183,,Barrell,
-2443881.2228,8.172,,Barrell,
-2443881.9583,8.284,,Barrell,
-2443881.9634,8.287,,Barrell,
-2443881.9691,8.288,,Barrell,
-2443881.9742,8.286,,Barrell,
-2443981.9812,8.279,,Barrell,
-2443881.9856,8.291,,Barrell,
-2443881.9903,8.29,,Barrell,
-2443881.9946,8.289,,Barrell,
-2443881.9993,8.287,,Barrell,
-2443882.0041,8.288,,Barrell,
-2443880.121,8.341,,Barrell,
-2443880.1264,8.341,,Barrell,
-2443880.1312,8.33,,Barrell,
-2443880.1365,8.329,,Barrell,
-2443880.1415,8.332,,Barrell,
-2443880.1464,8.342,,Barrell,
-2443880.1513,8.319,,Barrell,
-2443880.1565,8.335,,Barrell,
-2443880.106,8.325,,Barrell,
-2443880.1666,8.328,,Barrell,
-2443882.1361,8.306,,Barrell,
-2443882.1409,8.292,,Barrell,
-2443882.1462,8.311,,Barrell,
-2443882.1514,8.298,,Barrell,
-2443882.1562,8.296,,Barrell,
-2443882.1608,8.299,,Barrell,
-2443882.1656,8.287,,Barrell,
-2443882.1703,8.297,,Barrell,
-2443882.1756,8.292,,Barrell,
-2443882.1806,8.293,,Barrell,
-2443882.1855,8.281,,Barrell,
-2443882.1911,8.294,,Barrell,
-2443882.1962,8.298,,Barrell,
-2443882.2019,8.288,,Barrell,
-2443882.206,8.287,,Barrell,
-2443882.212,8.292,,Barrell,
-2443882.2171,8.294,,Barrell,
-2443882.2219,8.293,,Barrell,
-2443882.2266,8.301,,Barrell,
-2443905.1887,8.236,,Barrell,
-2443905.1947,8.244,,Barrell,
-2443905.1988,8.234,,Barrell,
-2443905.204,8.22,,Barrell,
-2443905.2095,8.24,,Barrell,
-2443905.2151,8.238,,Barrell,
-2443906.0989,8.35,,Barrell,
-2443906.1089,8.345,,Barrell,
-2443906.1262,8.367,,Barrell,
-2443906.1335,8.353,,Barrell,
-2443906.1378,8.343,,Barrell,
-2443906.1423,8.341,,Barrell,
-2443906.1473,8.346,,Barrell,
-2443906.1527,8.35,,Barrell,
-2443906.1582,8.338,,Barrell,
-2443906.1624,8.335,,Barrell,
-2443906.1671,8.353,,Barrell,
-2443906.1718,8.342,,Barrell,
-2443906.1797,8.338,,Barrell,
-2443906.1846,8.334,,Barrell,
-2443906.1893,8.338,,Barrell,
-2443906.1942,8.341,,Barrell,
-2443906.1993,8.337,,Barrell,
-2443906.2047,8.34,,Barrell,
-2443906.2102,8.345,,Barrell,
-2443906.215,8.34,,Barrell,
-2443906.2198,8.329,,Barrell,
-2443906.2244,8.334,,Barrell,
-2443906.2296,8.33,,Barrell,
-2443906.2352,8.318,,Barrell,
-2443906.2397,8.329,,Barrell,
-2443906.2449,8.319,,Barrell,
-2443906.9508,8.154,,Barrell,
-2443906.9558,8.176,,Barrell,
-2443906.9609,8.17,,Barrell,
-2443906.9656,8.172,,Barrell,
-2443906.9714,8.172,,Barrell,
-2443906.9755,8.167,,Barrell,
-2443906.98,8.169,,Barrell,
-2443906.9849,8.175,,Barrell,
-2443906.9894,8.161,,Barrell,
-2443907.0506,8.153,,Barrell,
-2443907.0584,8.15,,Barrell,
-2443907.0629,8.15,,Barrell,
-2443907.068,8.149,,Barrell,
-2443907.0738,8.151,,Barrell,
-2443907.0791,8.152,,Barrell,
-2443907.0841,8.154,,Barrell,
-2443907.0945,8.157,,Barrell,
-2443907.0996,8.158,,Barrell,
-2443907.1044,8.153,,Barrell,
-2443907.1109,8.149,,Barrell,
-2443907.1229,8.155,,Barrell,
-2443907.1283,8.152,,Barrell,
-2443907.1342,8.146,,Barrell,
-2443907.1391,8.143,,Barrell,
-2443907.1456,8.138,,Barrell,
-2443907.1507,8.144,,Barrell,
-2443907.1564,8.139,,Barrell,
-2443907.1641,8.136,,Barrell,
-2443907.1693,8.137,,Barrell,
-2443907.1742,8.141,,Barrell,
-2443907.1795,8.149,,Barrell,
-2443907.1846,8.15,,Barrell,
-2443907.1903,8.156,,Barrell,
-2443907.1966,8.158,,Barrell,
-2443907.2015,8.141,,Barrell,
-2443907.2065,8.15,,Barrell,
-2443907.2117,8.139,,Barrell,
-2443907.2169,8.138,,Barrell,
-2443907.2233,8.133,,Barrell,
-2443907.2287,8.134,,Barrell,
-2443907.2353,8.15,,Barrell,
-2443912.0766,7.942,,Barrell,
-2443912.0812,7.944,,Barrell,
-2443912.0868,7.942,,Barrell,
-2443912.1536,7.957,,Barrell,
-2443912.1605,7.962,,Barrell,
-2443912.1689,7.977,,Barrell,
-2443912.1745,7.968,,Barrell,
-2443912.2004,7.98,,Barrell,
-2443912.2063,7.979,,Barrell,
-2443912.2127,7.989,,Barrell,
-2443912.2171,7.986,,Barrell,
-2443912.2216,7.982,,Barrell,
-2443912.226,7.989,,Barrell,
-2443912.2306,7.988,,Barrell,
-2443912.2369,7.994,,Barrell,
-2443914.1593,8.311,,Barrell,
-2443914.1677,8.313,,Barrell,
-2443914.176,8.305,,Barrell,
-2443916.0949,8.275,,Barrell,
-2443916.0983,8.275,,Barrell,
-2443916.1039,8.273,,Barrell,
-2443916.9393,8.171,,Barrell,
-2443916.9442,8.173,,Barrell,
-2443916.949,8.191,,Barrell,
-2443917.0463,8.16,,Barrell,
-2443917.0511,8.163,,Barrell,
-2443917.9372,8.269,,Barrell,
-2443917.9456,8.271,,Barrell,
-2443917.9511,8.269,,Barrell,
-2443917.956,8.272,,Barrell,
-2443920.9421,8.383,,Barrell,
-2443920.9463,8.389,,Barrell,
-2443920.9504,8.389,,Barrell,
-2443920.9553,8.388,,Barrell,
-2443921.0997,8.421,,Barrell,
-2443921.106,8.422,,Barrell,
-2443921.1108,8.428,,Barrell,
-2443921.1164,8.432,,Barrell,
+2443875.9785,8.067,,Barrell,Johnson V
+2443875.9839,8.061,,Barrell,Johnson V
+2443876.011,8.077,,Barrell,Johnson V
+2443876.0229,8.081,,Barrell,Johnson V
+2443876.9783,8.412,,Barrell,Johnson V
+2443876.9902,8.399,,Barrell,Johnson V
+2443877.9772,8.181,,Barrell,Johnson V
+2443877.9867,8.181,,Barrell,Johnson V
+2443877.9941,8.171,,Barrell,Johnson V
+2443878.0006,8.156,,Barrell,Johnson V
+2443878.0069,8.148,,Barrell,Johnson V
+2443878.0125,8.145,,Barrell,Johnson V
+2443878.0227,8.136,,Barrell,Johnson V
+2443878.0374,8.147,,Barrell,Johnson V
+2443878.0462,8.149,,Barrell,Johnson V
+2443878.0532,8.14,,Barrell,Johnson V
+2443878.0591,8.131,,Barrell,Johnson V
+2443878.0661,8.12,,Barrell,Johnson V
+2443878.0717,8.125,,Barrell,Johnson V
+2443878.0776,8.121,,Barrell,Johnson V
+2443878.0832,8.108,,Barrell,Johnson V
+2443878.0895,8.105,,Barrell,Johnson V
+2443878.0947,8.1,,Barrell,Johnson V
+2443878.1008,8.095,,Barrell,Johnson V
+2443878.1072,8.097,,Barrell,Johnson V
+2443878.1133,8.084,,Barrell,Johnson V
+2443878.1368,8.877,,Barrell,Johnson V
+2443878.1424,8.059,,Barrell,Johnson V
+2443878.1482,8.068,,Barrell,Johnson V
+2443878.154,8.059,,Barrell,Johnson V
+2443878.2174,8.024,,Barrell,Johnson V
+2443878.2228,8.037,,Barrell,Johnson V
+2443878.9662,8.119,,Barrell,Johnson V
+2443878.9738,8.114,,Barrell,Johnson V
+2443878.9808,8.119,,Barrell,Johnson V
+2443878.9863,8.125,,Barrell,Johnson V
+2443878.9963,8.114,,Barrell,Johnson V
+2443879.0026,8.123,,Barrell,Johnson V
+2443879.009,8.116,,Barrell,Johnson V
+2443879.0145,8.133,,Barrell,Johnson V
+2443879.0204,8.133,,Barrell,Johnson V
+2443879.0261,8.133,,Barrell,Johnson V
+2443879.0393,8.133,,Barrell,Johnson V
+2443879.0455,8.133,,Barrell,Johnson V
+2443879.0509,8.131,,Barrell,Johnson V
+2443879.0561,8.142,,Barrell,Johnson V
+2443879.0613,8.144,,Barrell,Johnson V
+2443879.0662,8.148,,Barrell,Johnson V
+2443879.0715,8.143,,Barrell,Johnson V
+2443879.0764,8.134,,Barrell,Johnson V
+2443879.0814,8.149,,Barrell,Johnson V
+2443879.0865,8.139,,Barrell,Johnson V
+2443879.0922,8.153,,Barrell,Johnson V
+2443879.0977,8.146,,Barrell,Johnson V
+2443879.1031,8.165,,Barrell,Johnson V
+2443879.1084,8.153,,Barrell,Johnson V
+2443879.114,8.163,,Barrell,Johnson V
+2443879.1221,8.156,,Barrell,Johnson V
+2443879.1281,8.164,,Barrell,Johnson V
+2443879.1337,8.173,,Barrell,Johnson V
+2443879.2002,8.185,,Barrell,Johnson V
+2443879.2068,8.181,,Barrell,Johnson V
+2443879.2125,8.18,,Barrell,Johnson V
+2443879.218,8.183,,Barrell,Johnson V
+2443879.2239,8.201,,Barrell,Johnson V
+2443879.9669,8.329,,Barrell,Johnson V
+2443879.9743,8.328,,Barrell,Johnson V
+2443879.9817,8.342,,Barrell,Johnson V
+2443879.9873,8.355,,Barrell,Johnson V
+2443879.9925,8.337,,Barrell,Johnson V
+2443879.9981,8.341,,Barrell,Johnson V
+2443880.0032,8.342,,Barrell,Johnson V
+2443880.0081,8.326,,Barrell,Johnson V
+2443880.0137,8.343,,Barrell,Johnson V
+2443880.019,8.352,,Barrell,Johnson V
+2443880.0241,8.356,,Barrell,Johnson V
+2443880.0294,8.347,,Barrell,Johnson V
+2443880.0338,8.341,,Barrell,Johnson V
+2443880.0425,8.332,,Barrell,Johnson V
+2443880.0481,8.337,,Barrell,Johnson V
+2443880.0527,8.345,,Barrell,Johnson V
+2443880.0588,8.342,,Barrell,Johnson V
+2443880.0635,8.34,,Barrell,Johnson V
+2443880.0684,8.335,,Barrell,Johnson V
+2443880.073,8.333,,Barrell,Johnson V
+2443880.0779,8.341,,Barrell,Johnson V
+2443880.0837,8.34,,Barrell,Johnson V
+2443880.0888,8.326,,Barrell,Johnson V
+2443880.1081,8.333,,Barrell,Johnson V
+2443880.1163,8.334,,Barrell,Johnson V
+2443881.0567,8.172,,Barrell,Johnson V
+2443881.0615,8.2,,Barrell,Johnson V
+2443881.0663,8.178,,Barrell,Johnson V
+2443881.071,8.187,,Barrell,Johnson V
+2443881.0755,8.181,,Barrell,Johnson V
+2443881.0868,8.175,,Barrell,Johnson V
+2443881.0922,8.183,,Barrell,Johnson V
+2443881.0966,8.187,,Barrell,Johnson V
+2443881.1017,8.165,,Barrell,Johnson V
+2443881.1066,8.166,,Barrell,Johnson V
+2443881.1113,8.171,,Barrell,Johnson V
+2443881.1156,8.185,,Barrell,Johnson V
+2443881.1207,8.182,,Barrell,Johnson V
+2443881.1251,8.176,,Barrell,Johnson V
+2443881.1291,8.18,,Barrell,Johnson V
+2443881.1333,8.181,,Barrell,Johnson V
+2443881.1376,8.178,,Barrell,Johnson V
+2443881.142,8.177,,Barrell,Johnson V
+2443881.1466,8.158,,Barrell,Johnson V
+2443881.1539,8.172,,Barrell,Johnson V
+2443906.0478,8.358,,Barrell,Johnson V
+2443906.052,8.361,,Barrell,Johnson V
+2443906.0589,8.353,,Barrell,Johnson V
+2443906.0636,8.355,,Barrell,Johnson V
+2443906.0687,8.353,,Barrell,Johnson V
+2443906.0735,8.356,,Barrell,Johnson V
+2443906.0787,8.366,,Barrell,Johnson V
+2443906.083,8.362,,Barrell,Johnson V
+2443906.088,8.355,,Barrell,Johnson V
+2443906.094,8.36,,Barrell,Johnson V
+2443882.0086,8.286,,Barrell,Johnson V
+2443882.0138,8.281,,Barrell,Johnson V
+2443882.0201,8.296,,Barrell,Johnson V
+2443882.0254,8.289,,Barrell,Johnson V
+2443882.0335,8.297,,Barrell,Johnson V
+2443882.0395,8.285,,Barrell,Johnson V
+2443882.046,8.302,,Barrell,Johnson V
+2443882.0523,8.296,,Barrell,Johnson V
+2443882.0585,8.296,,Barrell,Johnson V
+2443882.0723,8.286,,Barrell,Johnson V
+2443882.0774,8.296,,Barrell,Johnson V
+2443882.0819,8.294,,Barrell,Johnson V
+2443882.1009,8.289,,Barrell,Johnson V
+2443882.1051,8.304,,Barrell,Johnson V
+2443882.1091,8.301,,Barrell,Johnson V
+2443882.1135,8.298,,Barrell,Johnson V
+2443882.1178,8.293,,Barrell,Johnson V
+2443882.1222,8.302,,Barrell,Johnson V
+2443882.1269,8.287,,Barrell,Johnson V
+2443882.1317,8.289,,Barrell,Johnson V
+2443906.9934,8.161,,Barrell,Johnson V
+2443907.0,8.163,,Barrell,Johnson V
+2443907.0044,8.154,,Barrell,Johnson V
+2443907.0091,8.15,,Barrell,Johnson V
+2443907.0137,8.149,,Barrell,Johnson V
+2443907.0182,8.15,,Barrell,Johnson V
+2443907.0279,8.15,,Barrell,Johnson V
+2443907.0335,8.161,,Barrell,Johnson V
+2443907.0381,8.154,,Barrell,Johnson V
+2443907.0426,8.152,,Barrell,Johnson V
+2443905.2198,8.233,,Barrell,Johnson V
+2443905.225,8.251,,Barrell,Johnson V
+2443905.2295,8.224,,Barrell,Johnson V
+2443905.2341,8.227,,Barrell,Johnson V
+2443905.2387,8.244,,Barrell,Johnson V
+2443905.2435,8.246,,Barrell,Johnson V
+2443905.9574,8.357,,Barrell,Johnson V
+2443905.9627,8.365,,Barrell,Johnson V
+2443905.9783,8.372,,Barrell,Johnson V
+2443905.983,8.369,,Barrell,Johnson V
+2443905.9889,8.367,,Barrell,Johnson V
+2443905.9957,8.353,,Barrell,Johnson V
+2443906.0025,8.365,,Barrell,Johnson V
+2443906.0068,8.376,,Barrell,Johnson V
+2443906.0137,8.364,,Barrell,Johnson V
+2443906.0181,8.367,,Barrell,Johnson V
+2443906.0225,8.365,,Barrell,Johnson V
+2443906.0266,8.364,,Barrell,Johnson V
+2443906.0358,8.36,,Barrell,Johnson V
+2443906.0399,8.356,,Barrell,Johnson V
+2443912.0922,7.945,,Barrell,Johnson V
+2443912.1019,7.943,,Barrell,Johnson V
+2443912.1066,7.945,,Barrell,Johnson V
+2443912.1116,7.952,,Barrell,Johnson V
+2443912.1165,7.953,,Barrell,Johnson V
+2443912.1216,7.952,,Barrell,Johnson V
+2443912.1334,7.955,,Barrell,Johnson V
+2443912.1385,7.964,,Barrell,Johnson V
+2443912.1435,7.964,,Barrell,Johnson V
+2443912.1484,7.969,,Barrell,Johnson V
+2443878.1601,8.067,,Barrell,Johnson V
+2443878.1666,8.064,,Barrell,Johnson V
+2443878.1729,8.063,,Barrell,Johnson V
+2443878.1795,8.065,,Barrell,Johnson V
+2443878.1845,8.055,,Barrell,Johnson V
+2443878.1899,8.055,,Barrell,Johnson V
+2443878.1955,8.052,,Barrell,Johnson V
+2443878.2013,8.048,,Barrell,Johnson V
+2443878.2066,8.044,,Barrell,Johnson V
+2443878.2121,8.032,,Barrell,Johnson V
+2443880.1723,8.325,,Barrell,Johnson V
+2443880.1778,8.33,,Barrell,Johnson V
+2443880.1843,8.325,,Barrell,Johnson V
+2443880.1908,8.313,,Barrell,Johnson V
+2443880.1955,8.316,,Barrell,Johnson V
+2443880.2007,8.319,,Barrell,Johnson V
+2443880.2053,8.328,,Barrell,Johnson V
+2443880.2105,8.326,,Barrell,Johnson V
+2443880.216,8.324,,Barrell,Johnson V
+2443880.2208,8.323,,Barrell,Johnson V
+2443880.2255,8.307,,Barrell,Johnson V
+2443880.9653,8.201,,Barrell,Johnson V
+2443880.9707,8.184,,Barrell,Johnson V
+2443880.9773,8.187,,Barrell,Johnson V
+2443880.9834,8.187,,Barrell,Johnson V
+2443880.9898,8.2,,Barrell,Johnson V
+2443880.9946,8.199,,Barrell,Johnson V
+2443881.0001,8.189,,Barrell,Johnson V
+2443881.0073,8.194,,Barrell,Johnson V
+2443881.0132,8.177,,Barrell,Johnson V
+2443881.0182,8.177,,Barrell,Johnson V
+2443881.0236,8.182,,Barrell,Johnson V
+2443881.0288,8.178,,Barrell,Johnson V
+2443881.0339,8.182,,Barrell,Johnson V
+2443881.0522,8.183,,Barrell,Johnson V
+2443879.1389,8.18,,Barrell,Johnson V
+2443879.1444,8.178,,Barrell,Johnson V
+2443879.1505,8.188,,Barrell,Johnson V
+2443879.1563,8.18,,Barrell,Johnson V
+2443879.1621,8.179,,Barrell,Johnson V
+2443879.1713,8.19,,Barrell,Johnson V
+2443879.1771,8.186,,Barrell,Johnson V
+2443879.1831,8.171,,Barrell,Johnson V
+2443879.189,8.186,,Barrell,Johnson V
+2443879.1942,8.189,,Barrell,Johnson V
+2443881.1584,8.172,,Barrell,Johnson V
+2443881.1627,8.164,,Barrell,Johnson V
+2443881.1674,8.182,,Barrell,Johnson V
+2443881.1721,8.168,,Barrell,Johnson V
+2443881.1768,8.16,,Barrell,Johnson V
+2443881.1813,8.18,,Barrell,Johnson V
+2443881.1869,8.177,,Barrell,Johnson V
+2443881.192,8.184,,Barrell,Johnson V
+2443881.1965,8.17,,Barrell,Johnson V
+2443881.2008,8.171,,Barrell,Johnson V
+2443881.2053,8.172,,Barrell,Johnson V
+2443881.2093,8.177,,Barrell,Johnson V
+2443881.2138,8.165,,Barrell,Johnson V
+2443881.2184,8.183,,Barrell,Johnson V
+2443881.2228,8.172,,Barrell,Johnson V
+2443881.9583,8.284,,Barrell,Johnson V
+2443881.9634,8.287,,Barrell,Johnson V
+2443881.9691,8.288,,Barrell,Johnson V
+2443881.9742,8.286,,Barrell,Johnson V
+2443981.9812,8.279,,Barrell,Johnson V
+2443881.9856,8.291,,Barrell,Johnson V
+2443881.9903,8.29,,Barrell,Johnson V
+2443881.9946,8.289,,Barrell,Johnson V
+2443881.9993,8.287,,Barrell,Johnson V
+2443882.0041,8.288,,Barrell,Johnson V
+2443880.121,8.341,,Barrell,Johnson V
+2443880.1264,8.341,,Barrell,Johnson V
+2443880.1312,8.33,,Barrell,Johnson V
+2443880.1365,8.329,,Barrell,Johnson V
+2443880.1415,8.332,,Barrell,Johnson V
+2443880.1464,8.342,,Barrell,Johnson V
+2443880.1513,8.319,,Barrell,Johnson V
+2443880.1565,8.335,,Barrell,Johnson V
+2443880.106,8.325,,Barrell,Johnson V
+2443880.1666,8.328,,Barrell,Johnson V
+2443882.1361,8.306,,Barrell,Johnson V
+2443882.1409,8.292,,Barrell,Johnson V
+2443882.1462,8.311,,Barrell,Johnson V
+2443882.1514,8.298,,Barrell,Johnson V
+2443882.1562,8.296,,Barrell,Johnson V
+2443882.1608,8.299,,Barrell,Johnson V
+2443882.1656,8.287,,Barrell,Johnson V
+2443882.1703,8.297,,Barrell,Johnson V
+2443882.1756,8.292,,Barrell,Johnson V
+2443882.1806,8.293,,Barrell,Johnson V
+2443882.1855,8.281,,Barrell,Johnson V
+2443882.1911,8.294,,Barrell,Johnson V
+2443882.1962,8.298,,Barrell,Johnson V
+2443882.2019,8.288,,Barrell,Johnson V
+2443882.206,8.287,,Barrell,Johnson V
+2443882.212,8.292,,Barrell,Johnson V
+2443882.2171,8.294,,Barrell,Johnson V
+2443882.2219,8.293,,Barrell,Johnson V
+2443882.2266,8.301,,Barrell,Johnson V
+2443905.1887,8.236,,Barrell,Johnson V
+2443905.1947,8.244,,Barrell,Johnson V
+2443905.1988,8.234,,Barrell,Johnson V
+2443905.204,8.22,,Barrell,Johnson V
+2443905.2095,8.24,,Barrell,Johnson V
+2443905.2151,8.238,,Barrell,Johnson V
+2443906.0989,8.35,,Barrell,Johnson V
+2443906.1089,8.345,,Barrell,Johnson V
+2443906.1262,8.367,,Barrell,Johnson V
+2443906.1335,8.353,,Barrell,Johnson V
+2443906.1378,8.343,,Barrell,Johnson V
+2443906.1423,8.341,,Barrell,Johnson V
+2443906.1473,8.346,,Barrell,Johnson V
+2443906.1527,8.35,,Barrell,Johnson V
+2443906.1582,8.338,,Barrell,Johnson V
+2443906.1624,8.335,,Barrell,Johnson V
+2443906.1671,8.353,,Barrell,Johnson V
+2443906.1718,8.342,,Barrell,Johnson V
+2443906.1797,8.338,,Barrell,Johnson V
+2443906.1846,8.334,,Barrell,Johnson V
+2443906.1893,8.338,,Barrell,Johnson V
+2443906.1942,8.341,,Barrell,Johnson V
+2443906.1993,8.337,,Barrell,Johnson V
+2443906.2047,8.34,,Barrell,Johnson V
+2443906.2102,8.345,,Barrell,Johnson V
+2443906.215,8.34,,Barrell,Johnson V
+2443906.2198,8.329,,Barrell,Johnson V
+2443906.2244,8.334,,Barrell,Johnson V
+2443906.2296,8.33,,Barrell,Johnson V
+2443906.2352,8.318,,Barrell,Johnson V
+2443906.2397,8.329,,Barrell,Johnson V
+2443906.2449,8.319,,Barrell,Johnson V
+2443906.9508,8.154,,Barrell,Johnson V
+2443906.9558,8.176,,Barrell,Johnson V
+2443906.9609,8.17,,Barrell,Johnson V
+2443906.9656,8.172,,Barrell,Johnson V
+2443906.9714,8.172,,Barrell,Johnson V
+2443906.9755,8.167,,Barrell,Johnson V
+2443906.98,8.169,,Barrell,Johnson V
+2443906.9849,8.175,,Barrell,Johnson V
+2443906.9894,8.161,,Barrell,Johnson V
+2443907.0506,8.153,,Barrell,Johnson V
+2443907.0584,8.15,,Barrell,Johnson V
+2443907.0629,8.15,,Barrell,Johnson V
+2443907.068,8.149,,Barrell,Johnson V
+2443907.0738,8.151,,Barrell,Johnson V
+2443907.0791,8.152,,Barrell,Johnson V
+2443907.0841,8.154,,Barrell,Johnson V
+2443907.0945,8.157,,Barrell,Johnson V
+2443907.0996,8.158,,Barrell,Johnson V
+2443907.1044,8.153,,Barrell,Johnson V
+2443907.1109,8.149,,Barrell,Johnson V
+2443907.1229,8.155,,Barrell,Johnson V
+2443907.1283,8.152,,Barrell,Johnson V
+2443907.1342,8.146,,Barrell,Johnson V
+2443907.1391,8.143,,Barrell,Johnson V
+2443907.1456,8.138,,Barrell,Johnson V
+2443907.1507,8.144,,Barrell,Johnson V
+2443907.1564,8.139,,Barrell,Johnson V
+2443907.1641,8.136,,Barrell,Johnson V
+2443907.1693,8.137,,Barrell,Johnson V
+2443907.1742,8.141,,Barrell,Johnson V
+2443907.1795,8.149,,Barrell,Johnson V
+2443907.1846,8.15,,Barrell,Johnson V
+2443907.1903,8.156,,Barrell,Johnson V
+2443907.1966,8.158,,Barrell,Johnson V
+2443907.2015,8.141,,Barrell,Johnson V
+2443907.2065,8.15,,Barrell,Johnson V
+2443907.2117,8.139,,Barrell,Johnson V
+2443907.2169,8.138,,Barrell,Johnson V
+2443907.2233,8.133,,Barrell,Johnson V
+2443907.2287,8.134,,Barrell,Johnson V
+2443907.2353,8.15,,Barrell,Johnson V
+2443912.0766,7.942,,Barrell,Johnson V
+2443912.0812,7.944,,Barrell,Johnson V
+2443912.0868,7.942,,Barrell,Johnson V
+2443912.1536,7.957,,Barrell,Johnson V
+2443912.1605,7.962,,Barrell,Johnson V
+2443912.1689,7.977,,Barrell,Johnson V
+2443912.1745,7.968,,Barrell,Johnson V
+2443912.2004,7.98,,Barrell,Johnson V
+2443912.2063,7.979,,Barrell,Johnson V
+2443912.2127,7.989,,Barrell,Johnson V
+2443912.2171,7.986,,Barrell,Johnson V
+2443912.2216,7.982,,Barrell,Johnson V
+2443912.226,7.989,,Barrell,Johnson V
+2443912.2306,7.988,,Barrell,Johnson V
+2443912.2369,7.994,,Barrell,Johnson V
+2443914.1593,8.311,,Barrell,Johnson V
+2443914.1677,8.313,,Barrell,Johnson V
+2443914.176,8.305,,Barrell,Johnson V
+2443916.0949,8.275,,Barrell,Johnson V
+2443916.0983,8.275,,Barrell,Johnson V
+2443916.1039,8.273,,Barrell,Johnson V
+2443916.9393,8.171,,Barrell,Johnson V
+2443916.9442,8.173,,Barrell,Johnson V
+2443916.949,8.191,,Barrell,Johnson V
+2443917.0463,8.16,,Barrell,Johnson V
+2443917.0511,8.163,,Barrell,Johnson V
+2443917.9372,8.269,,Barrell,Johnson V
+2443917.9456,8.271,,Barrell,Johnson V
+2443917.9511,8.269,,Barrell,Johnson V
+2443917.956,8.272,,Barrell,Johnson V
+2443920.9421,8.383,,Barrell,Johnson V
+2443920.9463,8.389,,Barrell,Johnson V
+2443920.9504,8.389,,Barrell,Johnson V
+2443920.9553,8.388,,Barrell,Johnson V
+2443921.0997,8.421,,Barrell,Johnson V
+2443921.106,8.422,,Barrell,Johnson V
+2443921.1108,8.428,,Barrell,Johnson V
+2443921.1164,8.432,,Barrell,Johnson V
 2439568.4,8.31,,Stobie et Hawarden,Johnson V
 2439571.32,8.08,,Stobie et Hawarden,Johnson V
 2439571.42,8.09,,Stobie et Hawarden,Johnson V
